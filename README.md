@@ -1,13 +1,6 @@
 📸 Kamera Mantap
 Aplikasi Flutter sederhana yang menggunakan kamera untuk mengambil gambar dan menampilkannya. Proyek ini mendukung Android, iOS, dan Web.
 
-
-ss:
-![WhatsApp Image 2025-03-07 at 15 41 58 (1)](https://github.com/user-attachments/assets/d6bc995e-0a68-417f-8e86-bb982a3e4913)
-![WhatsApp Image 2025-03-07 at 15 41 58](https://github.com/user-attachments/assets/cfb504c3-6fa7-4cef-b0d5-b5e36090a570)
-
-
-
 ✨ Fitur Utama
 1.  ✅ Mengakses kamera perangkat untuk mengambil gambar
 2.  ✅ Menampilkan hasil gambar setelah diambil
